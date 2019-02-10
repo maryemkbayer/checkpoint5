@@ -1,0 +1,26 @@
+.all{
+  background-color: aquamarine;
+}
+body{
+  background-color: blueviolet;
+}
+.header{
+text-align: center;
+
+}
+.box{
+  display: flex;
+}
+.images{
+  height: 400px;
+  width: 300px;
+  margin-left: 30px;
+}
+.popo{
+  margin-left: 30px;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 30px;
+}
+
+
+
